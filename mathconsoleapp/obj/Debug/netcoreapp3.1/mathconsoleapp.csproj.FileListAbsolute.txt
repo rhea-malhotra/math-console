@@ -1,0 +1,13 @@
+C:\development\math-console\mathconsoleapp\bin\Debug\netcoreapp3.1\mathconsoleapp.exe
+C:\development\math-console\mathconsoleapp\bin\Debug\netcoreapp3.1\mathconsoleapp.deps.json
+C:\development\math-console\mathconsoleapp\bin\Debug\netcoreapp3.1\mathconsoleapp.runtimeconfig.json
+C:\development\math-console\mathconsoleapp\bin\Debug\netcoreapp3.1\mathconsoleapp.runtimeconfig.dev.json
+C:\development\math-console\mathconsoleapp\bin\Debug\netcoreapp3.1\mathconsoleapp.dll
+C:\development\math-console\mathconsoleapp\bin\Debug\netcoreapp3.1\mathconsoleapp.pdb
+C:\development\math-console\mathconsoleapp\obj\Debug\netcoreapp3.1\mathconsoleapp.csprojAssemblyReference.cache
+C:\development\math-console\mathconsoleapp\obj\Debug\netcoreapp3.1\mathconsoleapp.csproj.CoreCompileInputs.cache
+C:\development\math-console\mathconsoleapp\obj\Debug\netcoreapp3.1\mathconsoleapp.AssemblyInfoInputs.cache
+C:\development\math-console\mathconsoleapp\obj\Debug\netcoreapp3.1\mathconsoleapp.AssemblyInfo.cs
+C:\development\math-console\mathconsoleapp\obj\Debug\netcoreapp3.1\mathconsoleapp.dll
+C:\development\math-console\mathconsoleapp\obj\Debug\netcoreapp3.1\mathconsoleapp.pdb
+C:\development\math-console\mathconsoleapp\obj\Debug\netcoreapp3.1\mathconsoleapp.genruntimeconfig.cache
